@@ -55,3 +55,11 @@
 </div>
 
 ###
+
+<h2 align="left">Контакты</h2>
+
+###
+
+<p align="left">Email: aleksandr.menshchikov1982@gmail.com</p>
+<p align="left">Telegram: @aleksandr_menshchikov</p>
+<p align="left">Телефон: +7 (927) 466-00-87</p>
